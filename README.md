@@ -5,6 +5,7 @@ Modern webpck multiPage application boilerplate.
 ![webpack4](https://img.shields.io/badge/webpack-4.0-brightgreen)
 ![babel7.0](https://img.shields.io/badge/babel-7.0-brightgreen)
 
+[中文文档](README-CN.md)
 
 ## Features
 
