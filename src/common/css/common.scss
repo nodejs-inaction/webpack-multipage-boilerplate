@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+.navbar {
+    background: #f1f1f1;
+    nav {
+        ul {
+            list-style: none;
+            display: flex;
+            align-items: center;
+            li {
+                width: 100px;
+                &:hover,
+                &.active {
+                    background: #f9f9f9;
+                }
+                a {
+                    text-align: center;
+                    color: #333;
+                    display: block;
+                    text-decoration: none;
+                    height: 64px;
+                    line-height: 64px;
+                }
+            }
+        }
+    }
+}
