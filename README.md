@@ -12,6 +12,7 @@ Modern webpck multiPage application boilerplate.
 + ECMAScript6 Ready (provided by [Babeljs](https://babeljs.io))
 + Modern CSS Ready (provided by [PostCSS](https://postcss.org/))
 + Module System
++ Image Compress
 
 ## How to use
 

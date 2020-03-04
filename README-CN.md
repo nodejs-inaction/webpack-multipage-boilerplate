@@ -11,6 +11,7 @@
 + 最新的JavaScript语法 ([Babeljs](https://babeljs.io))
 + 最新的CSS语法 ([PostCSS](https://postcss.org/))
 + 模块系统
++ 图片压缩
 
 ## 使用步骤
 

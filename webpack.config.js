@@ -39,8 +39,15 @@ module.exports = {
                             esModule: false,
                             name: 'images/[name].[hash:8].[ext]'
                         }
+                    },
+                    {
+                        loader: 'image-webpack-loader',
                     }
                 ]
+            },
+            {
+                test: /\.html$/,
+                use: 'html-loader'
             }
         ]
     },
